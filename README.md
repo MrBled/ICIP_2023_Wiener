@@ -3,7 +3,9 @@ ICIP 2023 Supplementary Material
 
 
 ## STD Prediction-Net Diagram
-
+<p align="center">
+  <img width="460" height="300" src=draw_uio_final.drawio_correctlegend.png>
+</p>
 ![STD Network](draw_uio_final.drawio_correctlegend.png)
 
 *STD Prediction-Net Architecture and Training Pipeline. Diagram represents the 4x16 CNN variant.*
