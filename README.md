@@ -21,7 +21,9 @@ ICIP 2023 Supplementary Material
 <p align="center">
   <img src=mean_im_with_gt.png>
 </p>
+
 *Final Results for all DC-offset estimation methods. need to include params...*
+
 ## Denoising Results
 <p align="center">
   <img src=mosaic_1-1.png>
