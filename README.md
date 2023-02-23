@@ -1,8 +1,8 @@
-# Pushing the Limits of the Wiener Filter
-# ICIP 2023 Supplementary Material
+# Pushing the Limits of the Wiener Filter 
+ICIP 2023 Supplementary Material
 
 
-## STD Prediction-Net 
+## STD Prediction-Net Diagram
 
 ![STD Network](draw_uio_final.drawio_correctlegend.png)
 
