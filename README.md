@@ -4,7 +4,7 @@ ICIP 2023 Supplementary Material
 
 ## STD Prediction-Net Diagram
 <p align="center">
-  <img width="460" height="300" src=draw_uio_final.drawio_correctlegend.png>
+  <img src=draw_uio_final.drawio_correctlegend.png>
 </p>
 
 
