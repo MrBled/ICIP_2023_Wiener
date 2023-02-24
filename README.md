@@ -14,7 +14,7 @@ ICIP 2023 Supplementary Material
   <img src=wiener_diagram.png>
 </p>
 
-*22k params*
+*22k params. add omegas, add frequency domain, add "predicted/final H at end"*
 ## Complete Results for all STD Prediction-Net architectures.
 
 <p align="center">
