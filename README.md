@@ -14,6 +14,7 @@ ICIP 2023 Supplementary Material
   <img src=wiener_diagram.png>
 </p>
 
+*22k params*
 ## Complete Results for all STD Prediction-Net architectures.
 
 <p align="center">
