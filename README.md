@@ -8,6 +8,7 @@ ICIP 2023 Supplementary Material
 </p>
 
 
+
 *STD Prediction-Net Architecture and Training Pipeline. Diagram represents the 4x16 CNN variant.*
 
 ## Complete Results for all STD Prediction-Net architectures.
