@@ -7,9 +7,12 @@ ICIP 2023 Supplementary Material
   <img src=draw_uio_final.drawio_correctlegend.png>
 </p>
 
-
-
 *STD Prediction-Net Architecture and Training Pipeline. Diagram represents the 4x16 CNN variant.*
+
+## Wiener Fine Tuning Network
+<p align="center">
+  <img src=wiener_diagram.png>
+</p>
 
 ## Complete Results for all STD Prediction-Net architectures.
 
